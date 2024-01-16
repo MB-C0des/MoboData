@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on SQL & PowerBI projects
 - 🌱 I’m currently learning Python & SQL
 - 👯 I’m looking to collaborate on Machine Learning & AI projects
+- 🤔 I’m looking for help on displaying my work on GitHub
 - 💬 Ask me about Data Management
 - 😄 Pronouns: she/her
 
