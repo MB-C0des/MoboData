@@ -1,4 +1,4 @@
-### Hi there I'm MB 👋
+### Hi there I'm MB-C0des 👋
 
 - 🔭 I’m currently working on SQL & PowerBI projects
 - 🌱 I’m currently learning Python & SQL
