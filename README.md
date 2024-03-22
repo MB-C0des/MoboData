@@ -1,4 +1,4 @@
-### Hi there I'm MoboData 👋
+### Hi there I'm MB 👋
 
 - 🔭 I’m currently working on SQL & PowerBI projects
 - 🌱 I’m currently learning Python & SQL
